@@ -2,8 +2,6 @@
 
 # 👋 안녕하세요, 강재구 (Jaegu Kang) 입니다
 
-**AI 연구(Flow Matching 생성 모델, AI on RAN)부터 모델 개발, Edge 시스템 통합, 풀스택 서비스까지 End-to-End로 구현합니다.**
-
 [![Email](https://img.shields.io/badge/Email-tonny0120%40naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tonny0120@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rkdworn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rkdworn)
 
