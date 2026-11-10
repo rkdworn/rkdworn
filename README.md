@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 강재구 (Jaegu Kang) 입니다
+# 안녕하세요, 강재구 (Jaegu Kang) 입니다
 
 [![Email](https://img.shields.io/badge/Email-tonny0120%40naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tonny0120@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rkdworn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rkdworn)
@@ -11,9 +11,9 @@
 
 ### 🎓 Affiliation & Activities
 
-- 🔬 **Intelligent Network and Convergence Laboratory (동국대학교)**  
+- **Intelligent Network and Convergence Laboratory (동국대학교)**  
   *학부연구생 (Undergraduate Researcher) | 지도교수: 이웅희 (Woonghee Lee) 교수님*
-- 💻 **SUDO (한성대학교 AI응용학과)**  
+- **SUDO (한성대학교 AI응용학과)**  
   *전공 학술 소모임 활동*
 
 ---
@@ -22,37 +22,37 @@
 
 | 대회명 | 성적 | 참가 규모 |
 | :--- | :---: | :---: |
-| **항만 문제해결을 위한 AI 기술 공모전** | **🏅 10위** | 468팀 (1,115명) |
-| **2026 AI·SW중심대학 디지털 경진대회 : AI부문** | **🏅 19위** | 269팀 (867명) |
-| **Predicting Credit Card Fraud** | **🏃 진행 중** | 신용카드 이상거래 탐지 경진대회 |
+| **항만 문제해결을 위한 AI 기술 공모전** | **10위** | 468팀 (1,115명) |
+| **2026 AI·SW중심대학 디지털 경진대회 : AI부문** | **19위** | 269팀 (867명) |
+| **Predicting Credit Card Fraud** | **진행 중** | 신용카드 이상거래 탐지 경진대회 |
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🔬 Research
+#### Research
 | 연구 주제 | 소속 | 분야 | 내용 |
 | :--- | :---: | :--- | :--- |
-| **Flow Matching (FM) 연구** | **🎓 한성대학교** | `Generative AI` `Flow Matching` | Flow Matching 기반 생성형 모델(Generative Model) 연구 |
-| **AI on RAN (AoRA) 연구** | **🔬 동국대학교 INCL** | `Wireless Network` `AI` | 차세대 무선 접속망(Radio Access Network) 지능화 및 최적화 연구 |
+| **Flow Matching (FM) 연구** | 한성대학교 | Generative AI Flow Matching | Flow Matching 기반 생성형 모델(Generative Model) 연구 |
+| **AI on RAN (AoRA) 연구** | 동국대학교 INCL | Wireless Network AI | 차세대 무선 접속망(Radio Access Network) 지능화 및 최적화 연구 |
 
-#### 🧠 AI Model Development (모델 개발 및 실험)
+#### AI Model Development (모델 개발 및 실험)
 | 프로젝트 | 구분 | 핵심 기술 | 소개 |
 | :--- | :---: | :--- | :--- |
-| **Mendi** `🔒 Private` | **🏢 산학 프로젝트** | `PyTorch` `YOLO11` `RT-DETR` `RF-DETR` | **신발 종류 및 파손 부위 탐지 모델 개발**: 촬영 세션 기반 데이터 누수 방지·라벨 검수 파이프라인 구축 및 4종 Detector 비교 실험 |
-| **egg_detector** `🔒 Private` | **🏢 산학 프로젝트** | `YOLOv8` `PyTorch` `Jetson Orin Nano` | **실시간 계란 파각·오염 탐지 모델 개발**: 비전 검사 데이터셋 구축·학습 및 엣지 디바이스 실시간 추론 모델 개발 |
-| **Port AI Competition** `🔒 Private` | **🏆 AI 공모전** | `Python` `PyTorch` | **선박 부품 분류 AI 모델 개발**: 선박 부품 표준 분류 체계 해석 및 비정형 품목 카탈로그 식별 (공모전 10위) |
-| [**ko-paper-explainer-sft-vs-dpo**](https://github.com/rkdworn/ko-paper-explainer-sft-vs-dpo) | **💡 토이 프로젝트** | `Python` `Qwen` `LoRA` `DPO` | **한국어 논문 해설 LLM 정렬 실험**: arXiv 영어 AI 논문 초록 해설 태스크에서 SFT 단독 vs SFT+DPO 모델 비교 |
+| **Mendi** Private | 산학 프로젝트 | PyTorch YOLO11 RT-DETR RF-DETR | **신발 종류 및 파손 부위 탐지 모델 개발**: 촬영 세션 기반 데이터 누수 방지·라벨 검수 파이프라인 구축 및 4종 Detector 비교 실험 |
+| **egg_detector** Private | 산학 프로젝트 | YOLOv8 PyTorch Jetson Orin Nano | **실시간 계란 파각·오염 탐지 모델 개발**: 비전 검사 데이터셋 구축·학습 및 엣지 디바이스 실시간 추론 모델 개발 |
+| **Port AI Competition** Private | AI 공모전 | Python PyTorch | **선박 부품 분류 AI 모델 개발**: 선박 부품 표준 분류 체계 해석 및 비정형 품목 카탈로그 식별 (공모전 10위) |
+| [**ko-paper-explainer-sft-vs-dpo**](https://github.com/rkdworn/ko-paper-explainer-sft-vs-dpo) | 토이 프로젝트 | Python Qwen LoRA DPO | **한국어 논문 해설 LLM 정렬 실험**: arXiv 영어 AI 논문 초록 해설 태스크에서 SFT 단독 vs SFT+DPO 모델 비교 |
 
-#### 💻 Web, System & UI Implementation (웹·시스템 및 UI 구현)
+#### Web, System & UI Implementation (웹·시스템 및 UI 구현)
 | 프로젝트 | 구분 | 핵심 기술 | 소개 |
 | :--- | :---: | :--- | :--- |
-| **JetSon_UI** `🔒 Private` | **🏢 산학 프로젝트** | `PySide6(Qt6)` `TensorRT` `UART` `Jetson Orin Nano` | **산업용 계란 비전 검사 HMI 시스템 구현**: 1080p 산업용 터치 GUI, 아두이노 메가 MCU 패킷 제어(6×6 트레이 검사) 및 Google Drive 자동 동기화 |
-| [**Mendi_UI (MEND AI)**](https://github.com/rkdworn/Mendi_UI) | **🏢 산학 프로젝트** | `FastAPI` `JavaScript` `Colab` `GitHub Pages` | **신발 손상 분석 AI 웹 서비스 구현**: 3모델 앙상블 추론 서버(FastAPI) 및 반응형 웹 데모 UI 구축 ([Live Demo](https://rkdworn.github.io/Mendi_UI/)) |
-| [**NewsLens**](https://github.com/rkdworn/newslens) | **🎓 수업 프로젝트 (4인)** | `Next.js` `TypeScript` `Tailwind` `Python` | **다각도 뉴스 분석 웹 플랫폼**: 뉴스를 다양한 관점(Lens)으로 분석하는 웹 애플리케이션 및 데이터 수집 파이프라인 |
-| [**TripSync**](https://github.com/rkdworn/Summer_Project-Travel_Planner) | **💻 SUDO 소모임 (4인)** | `TypeScript` `React` | **실시간 협업 여행 플래너**: 링크 하나로 실시간 여행 시간표(When2meet 스타일)와 지도·채팅을 공유하는 웹 서비스 |
-| [**Desk Calendar**](https://github.com/rkdworn/desk-calendar) | **💡 토이 프로젝트** | `TypeScript` `Google Calendar API` | **Windows 바탕화면 캘린더 위젯**: 바탕화면 반투명 위젯 및 Google 캘린더 양방향 동기화 데스크톱 앱 |
-| [**군적금 계산기 (TOSS_miniapp)**](https://github.com/rkdworn/TOSS_miniapp) | **💡 토이 프로젝트** | `React` `TDS Mobile` `Granite` | **토스 미니앱(Apps in Toss)**: 토스 디자인 시스템(TDS) 및 미니앱 SDK 기반 장병내일준비적금 만기 수령액 계산기 |
+| **JetSon_UI** Private | 산학 프로젝트 | PySide6(Qt6) TensorRT UART Jetson Orin Nano | **산업용 계란 비전 검사 HMI 시스템 구현**: 1080p 산업용 터치 GUI, 아두이노 메가 MCU 패킷 제어(6×6 트레이 검사) 및 Google Drive 자동 동기화 |
+| [**Mendi_UI (MEND AI)**](https://github.com/rkdworn/Mendi_UI) | 산학 프로젝트 | FastAPI JavaScript Colab GitHub Pages | **신발 손상 분석 AI 웹 서비스 구현**: 3모델 앙상블 추론 서버(FastAPI) 및 반응형 웹 데모 UI 구축 ([Live Demo](https://rkdworn.github.io/Mendi_UI/)) |
+| [**NewsLens**](https://github.com/rkdworn/newslens) | 수업 프로젝트 (4인) | Next.js TypeScript Tailwind Python | **다각도 뉴스 분석 웹 플랫폼**: 뉴스를 다양한 관점(Lens)으로 분석하는 웹 애플리케이션 및 데이터 수집 파이프라인 |
+| [**TripSync**](https://github.com/rkdworn/Summer_Project-Travel_Planner) | SUDO 소모임 (4인) | TypeScript React | **실시간 협업 여행 플래너**: 링크 하나로 실시간 여행 시간표(When2meet 스타일)와 지도·채팅을 공유하는 웹 서비스 |
+| [**Desk Calendar**](https://github.com/rkdworn/desk-calendar) | 토이 프로젝트 | TypeScript Google Calendar API | **Windows 바탕화면 캘린더 위젯**: 바탕화면 반투명 위젯 및 Google 캘린더 양방향 동기화 데스크톱 앱 |
+| [**군적금 계산기 (TOSS_miniapp)**](https://github.com/rkdworn/TOSS_miniapp) | 토이 프로젝트 | React TDS Mobile Granite | **토스 미니앱(Apps in Toss)**: 토스 디자인 시스템(TDS) 및 미니앱 SDK 기반 장병내일준비적금 만기 수령액 계산기 |
 
 ---
 
