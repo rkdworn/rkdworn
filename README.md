@@ -34,7 +34,7 @@
 | 연구 주제 | 소속 | 분야 | 내용 |
 | :--- | :---: | :--- | :--- |
 | **Flow Matching (FM) 연구** | 한&#8288;성&#8288;대&#8288;학&#8288;교&#8288; | Generative AI Flow Matching | Flow Matching 기반 생성형 모델(Generative Model) 연구 |
-| **AI on RAN (AoRA) 연구** | 동&#8288;국&#8288;대&#8288;학&#8288;교&#8288;&nbsp;I&#8288;N&#8288;C&#8288;L&#8288; | Wireless Network AI | 차세대 무선 접속망(Radio Access Network) 지능화 및 최적화 연구 |
+| **AI on RAN (AoRA) 연구** | 동&#8288;국&#8288;대&#8288;학&#8288;교&#8288; | Wireless Network AI | 차세대 무선 접속망(Radio Access Network) 지능화 및 최적화 연구 |
 
 #### AI Model Development (모델 개발 및 실험)
 | 프로젝트 | 구분 | 핵심 기술 | 소개 |
