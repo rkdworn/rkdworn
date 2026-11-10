@@ -41,8 +41,8 @@
 | :--- | :---: | :--- | :--- |
 | **Mendi** Private | 산학&nbsp;프로젝트 | PyTorch YOLO11 RT-DETR RF-DETR | **신발 종류 및 파손 부위 탐지 모델 개발**: 촬영 세션 기반 데이터 누수 방지·라벨 검수 파이프라인 구축 및 4종 Detector 비교 실험 |
 | **egg_detector** Private | 산학&nbsp;프로젝트 | YOLOv8 PyTorch Jetson Orin Nano | **실시간 계란 파각·오염 탐지 모델 개발**: 비전 검사 데이터셋 구축·학습 및 엣지 디바이스 실시간 추론 모델 개발 |
-| **Port AI Competition** Private | AI&nbsp;공모전 | Python PyTorch | **선박 부품 분류 AI 모델 개발**: 선박 부품 표준 분류 체계 해석 및 비정형 품목 카탈로그 식별 (공모전 10위) |
-| **DACON-AI-Agent-Behavior-Inference** Private | AI&nbsp;경진대회 | PyTorch DeBERTa Knowledge Distillation | **AI 에이전트 행동 추론 모델 개발**: 대화 맥락 기반 14종 에이전트 Action 분류를 위한 DeBERTa 파인튜닝 및 불균형 클래스·KD 실험 (경진대회 19위) |
+| **Port AI Competition** Private | 데이콘 | Python PyTorch | **선박 부품 분류 AI 모델 개발**: 선박 부품 표준 분류 체계 해석 및 비정형 품목 카탈로그 식별 (공모전 10위) |
+| **DACON-AI-Agent-Behavior-Inference** Private | 데이콘 | PyTorch DeBERTa Knowledge Distillation | **AI 에이전트 행동 추론 모델 개발**: 대화 맥락 기반 14종 에이전트 Action 분류를 위한 DeBERTa 파인튜닝 및 불균형 클래스·KD 실험 (경진대회 19위) |
 | [**ko-paper-explainer-sft-vs-dpo**](https://github.com/rkdworn/ko-paper-explainer-sft-vs-dpo) | 토이&nbsp;프로젝트 | Python Qwen LoRA DPO | **한국어 논문 해설 LLM 정렬 실험**: arXiv 영어 AI 논문 초록 해설 태스크에서 SFT 단독 vs SFT+DPO 모델 비교 |
 
 #### Web, System & UI Implementation (웹·시스템 및 UI 구현)
