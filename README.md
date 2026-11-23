@@ -12,7 +12,7 @@
 ### 💼 Experience & Affiliation
 
 - **이데아아이**  
-  *인턴 (Intern) | Jetson Orin Nano 기반 실시간 계란 비전 검사 모델(egg_detector) 및 산업용 터치 HMI 시스템(JetSon_UI) 개발*
+  *인턴 (Intern, 2026.06 ~ 2026.11) | Jetson Orin Nano 기반 실시간 계란 비전 검사 모델(egg_detector) 및 산업용 터치 HMI 시스템(JetSon_UI) 개발*
 - **Intelligent Network and Convergence Laboratory (동국대학교)**  
   *학부연구생 (Undergraduate Researcher) | 지도교수: 이웅희 (Woonghee Lee) 교수님*
 - **SUDO (한성대학교 AI응용학과)**  
