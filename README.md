@@ -26,7 +26,7 @@
 | **2026 AI·SW중심대학 디지털 경진대회 : AI부문** | **19위** | 269팀 (867명) |
 | **디노티시아 NIPA 오픈소스 해커톤** | **우수상** | - |
 | **2026 AI 활용 전국 대학생 창업 해커톤** | **본선** | - |
-| **Solar Filament Segmentation Challenge 2026 (Kaggle)** | **242위** | 1,567팀 |
+| **Solar Filament Segmentation Challenge 2026 (Kaggle)** | **242위** | 1,567팀 (1,708명) |
 
 
 ---
