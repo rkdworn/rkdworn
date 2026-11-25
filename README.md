@@ -24,6 +24,7 @@
 
 | 대회명 | 결과 | 참가 규모 |
 | :--- | :---: | :---: |
+| **2026 DATA·AI 분석 경진대회 (문제해결 부문)** | **대상 (국회의장상) · 1위** | - |
 | **항만 문제해결을 위한 AI 기술 공모전** | **10위** | 468팀 (1,115명) |
 | **2026 AI·SW중심대학 디지털 경진대회 : AI부문** | **19위** | 269팀 (867명) |
 | **디노티시아 NIPA 오픈소스 해커톤** | **우수상** | - |
@@ -46,6 +47,7 @@
 | :--- | :---: | :--- | :--- |
 | **Mendi** Private | 산&#8288;학&#8288;&nbsp;프&#8288;로&#8288;젝&#8288;트&#8288; | PyTorch YOLO11 RT-DETR RF-DETR | **신발 종류 및 파손 부위 탐지 모델 개발**: 촬영 세션 기반 데이터 누수 방지·라벨 검수 파이프라인 구축 및 4종 Detector 비교 실험 |
 | **egg_detector** Private | 이&#8288;데&#8288;아&#8288;아&#8288;이&#8288;&nbsp;인&#8288;턴&#8288; | YOLOv8 PyTorch Jetson Orin Nano | **실시간 계란 파각·오염 탐지 모델 개발**: 비전 검사 데이터셋 구축·학습 및 엣지 디바이스 실시간 추론 모델 개발 |
+| **vpass-fishing-vessel-analysis** Private | D&#8288;A&#8288;T&#8288;A&#8288;·&#8288;A&#8288;I&#8288;&nbsp;경&#8288;진&#8288;대&#8288;회&#8288; | Python LightGBM pandas scikit-learn | **[대상(국회의장상) · 1위]** 해양경찰청 V-Pass 어선 항적 데이터 기반 조업형태 판별 및 이상항적 탐지 모델 개발. 항적 재조립·위치 커널 등 322개 특징 공학 및 기록 길이별 LightGBM·누수 방지 교차검증 파이프라인 설계 |
 | **Port AI Competition** Private | 데&#8288;이&#8288;콘&#8288; | Python PyTorch | **선박 부품 분류 AI 모델 개발**: 선박 부품 표준 분류 체계 해석 및 비정형 품목 카탈로그 식별 (공모전 10위) |
 | **DACON-AI-Agent-Behavior-Inference** Private | 데&#8288;이&#8288;콘&#8288; | PyTorch DeBERTa Knowledge Distillation | **AI 에이전트 행동 추론 모델 개발**: 대화 맥락 기반 14종 에이전트 Action 분류를 위한 DeBERTa 파인튜닝 및 불균형 클래스·KD 실험 (경진대회 19위) |
 | [**Solar Filament Segmentation Challenge 2026**](https://github.com/rkdworn/Solar-Filament-Segmentation-Challenge-2026) | K&#8288;a&#8288;g&#8288;g&#8288;l&#8288;e&#8288; | PyTorch EfficientNetV2-S U-Net scikit-learn OpenCV | 태양 H-α 이미지에서 필라멘트를 개체 단위로 분할하는 대회에 개인으로 참가했습니다. EfficientNetV2-S U-Net을 주석가 평균 마스크(soft label)로 학습하고, 히스테리시스 묶기와 학습형 개체 필터로 후처리를 설계했습니다. 교차검증 PQ 0.449, 비공개 리더보드 PQ 0.36으로 1,567팀 중 242위를 기록했고, 기술 보고서와 재현 가능한 코드·가중치를 제출했습니다. |
