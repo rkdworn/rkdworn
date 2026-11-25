@@ -29,6 +29,7 @@
 | **2026 AI·SW중심대학 디지털 경진대회 : AI부문** | **19위** | 269팀 (867명) |
 | **디노티시아 NIPA 오픈소스 해커톤** | **우수상** | - |
 | **2026 AI 활용 전국 대학생 창업 해커톤** | **본선** | - |
+| **롯데 AX 챌린지 2026** | **본선** | - |
 | **Solar Filament Segmentation Challenge 2026 (Kaggle)** | **242위** | 1,567팀 (1,708명) |
 
 
@@ -51,6 +52,7 @@
 | **Port AI Competition** Private | 데&#8288;이&#8288;콘&#8288; | Python PyTorch | **선박 부품 분류 AI 모델 개발**: 선박 부품 표준 분류 체계 해석 및 비정형 품목 카탈로그 식별 (공모전 10위) |
 | **DACON-AI-Agent-Behavior-Inference** Private | 데&#8288;이&#8288;콘&#8288; | PyTorch DeBERTa Knowledge Distillation | **AI 에이전트 행동 추론 모델 개발**: 대화 맥락 기반 14종 에이전트 Action 분류를 위한 DeBERTa 파인튜닝 및 불균형 클래스·KD 실험 (경진대회 19위) |
 | [**Solar Filament Segmentation Challenge 2026**](https://github.com/rkdworn/Solar-Filament-Segmentation-Challenge-2026) | K&#8288;a&#8288;g&#8288;g&#8288;l&#8288;e&#8288; | PyTorch EfficientNetV2-S U-Net scikit-learn OpenCV | 태양 H-α 이미지에서 필라멘트를 개체 단위로 분할하는 대회에 개인으로 참가했습니다. EfficientNetV2-S U-Net을 주석가 평균 마스크(soft label)로 학습하고, 히스테리시스 묶기와 학습형 개체 필터로 후처리를 설계했습니다. 교차검증 PQ 0.449, 비공개 리더보드 PQ 0.36으로 1,567팀 중 242위를 기록했고, 기술 보고서와 재현 가능한 코드·가중치를 제출했습니다. |
+| **LOTTE-AX-CHALLENGE-2026** Private | 롯&#8288;데&#8288;&nbsp;A&#8288;X&#8288;&nbsp;챌&#8288;린&#8288;지&#8288; | Python OpenAI FastAPI pandas statsmodels | **[본선 진출]** 롯데케미칼 첨단소재 2027 수요·트렌드 전망 AI Agent 및 웹 데모 개발. 공개 거시·무역·자동차 지표 기반 시계열 추세·유가 전이 모델과 근거 등급·출처 기반 RAG 질의응답 파이프라인 구현 |
 | [**ko-paper-explainer-sft-vs-dpo**](https://github.com/rkdworn/ko-paper-explainer-sft-vs-dpo) | 토&#8288;이&#8288;&nbsp;프&#8288;로&#8288;젝&#8288;트&#8288; | Python Qwen LoRA DPO | **한국어 논문 해설 LLM 정렬 실험**: arXiv 영어 AI 논문 초록 해설 태스크에서 SFT 단독 vs SFT+DPO 모델 비교 |
 
 #### Web, System & UI Implementation (웹·시스템 및 UI 구현)
